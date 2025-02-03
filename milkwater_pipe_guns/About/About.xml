@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Milkwater's Pipe Gun Mod</name>
+	<author>Milkwater</author>
+	<description>Adds 4 new pipe guns to your game.</description>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<packageId>Milkwater.PipeGuns</packageId>
+</ModMetaData>
